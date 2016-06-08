@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:52.920553
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:16
 #+TITLE: 藥師琉璃光王七佛本願功德經念誦儀軌
 #+PROPERTY: CBETA_ID T19n0925
 #+PROPERTY: ID KR6j0097
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 925
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0097_T_000-0033a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0097_T_002-0037c> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 藥師琉璃光王七佛本願功德經¶
+藥師琉璃光王七佛本願功德經¶
 念誦儀軌卷下¶
 ¶
 善護尊者造¶
@@ -193,9 +192,9 @@
 「　蠲除無明最勝燈
 　能除病苦妙良藥¶
 　微妙最上諸法寶
-　歸依供養我敬禮
+　歸依供養我敬禮」
 #+END_VERSE
-」¶
+¶
 
 最上法寶真實攝授力。惟願我等生生世世。¶
 執持一切微妙法寶。願垂攝授願垂攝授。大
@@ -450,9 +449,9 @@
 「　汝今利益有情已
 　隨所希求賜成就¶
 　奉送世尊歸本土
-　當請慈悲願降臨
+　當請慈悲願降臨」
 #+END_VERSE
-」¶
+¶
 
 惟願世尊具大慈悲憐愍我等。已作利益請¶
 諸聖眾。以大神通願歸本土。¶

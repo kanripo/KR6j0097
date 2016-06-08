@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:52.891909
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:16
 #+TITLE: 藥師琉璃光王七佛本願功德經念誦儀軌
 #+PROPERTY: CBETA_ID T19n0925
 #+PROPERTY: ID KR6j0097
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 925
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0097_T_000-0033a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0097_T_001-0033a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.925¶
-
- 藥師琉璃光王七佛本願功德經¶
+No. 925¶
+藥師琉璃光王七佛本願功德經¶
 念誦儀軌卷上¶
 ¶
 善護尊者造¶
@@ -29,7 +28,7 @@ No.925¶
 家者受持八支近住禁戒。值良辰時如月八¶
 日。啟建道場於適意所灑掃清淨。嚴設種種¶
 幢幡傘蓋。用諸粉末或布花位建大香壇。於¶
-內安置鑄瀉繪塑舍利弗像。及設世出世間¶
+內安置鑄瀉繪塑舍利佛像。及設世出世間¶
 諸尊聖賢等位。隨力陳設種種供養。一一像¶
 前各置七燈。各懸七首雜色綵幡。及諸上品¶
 燒香名花塗香妙食。種種伎樂七寶八吉祥¶
@@ -149,9 +148,9 @@ No.925¶
 　魔虎羅大將
 　真達羅大將¶
 　招住羅大將
-　毘羯羅大將
+　毘羯羅大將」
 #+END_VERSE
-」¶
+¶
 
 汝等大將。當憶往昔所發善願。今者(某甲)及諸¶
 有情作依怙故。作救護故作勢力故。虔誠召¶
